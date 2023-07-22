@@ -1,4 +1,0 @@
-# Ignore .vs and obj folders
-.vs/
-obj/
-.vs/ConsoleAppUnderstandings
