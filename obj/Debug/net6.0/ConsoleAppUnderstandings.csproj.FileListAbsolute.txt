@@ -1,0 +1,15 @@
+D:\Logesh\ConsoleAppUnderstandings\bin\Debug\net6.0\ConsoleAppUnderstandings.exe
+D:\Logesh\ConsoleAppUnderstandings\bin\Debug\net6.0\ConsoleAppUnderstandings.deps.json
+D:\Logesh\ConsoleAppUnderstandings\bin\Debug\net6.0\ConsoleAppUnderstandings.runtimeconfig.json
+D:\Logesh\ConsoleAppUnderstandings\bin\Debug\net6.0\ConsoleAppUnderstandings.dll
+D:\Logesh\ConsoleAppUnderstandings\bin\Debug\net6.0\ConsoleAppUnderstandings.pdb
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.csproj.AssemblyReference.cache
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.AssemblyInfoInputs.cache
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.AssemblyInfo.cs
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.csproj.CoreCompileInputs.cache
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.dll
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\refint\ConsoleAppUnderstandings.dll
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.pdb
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ConsoleAppUnderstandings.genruntimeconfig.cache
+D:\Logesh\ConsoleAppUnderstandings\obj\Debug\net6.0\ref\ConsoleAppUnderstandings.dll
