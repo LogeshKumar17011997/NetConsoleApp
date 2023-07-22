@@ -1,0 +1,106 @@
+[33mcommit cd392ccfdc051020151a2de05b66c5a10e971bc6[m[33m ([m[1;36mHEAD -> [m[1;32mrecover1branch[m[33m, [m[1;31morigin/recoverbranch[m[33m, [m[1;31morigin/recover1branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mrecoverbranch[m[33m, [m[1;32mmain[m[33m)[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 16:39:15 2023 +0530
+
+    'fgdf'
+
+[33mcommit f96bea39ad8cd750aed840ae385bfcd04c9ad247[m
+Merge: 02e2057 b760d5f
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 16:35:25 2023 +0530
+
+    Merge branch 'main' into recoverbranch
+
+[33mcommit 02e2057a2971d5c4db8419b99eaac5ae0d3a9ee7[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 16:33:59 2023 +0530
+
+    'recover'
+
+[33mcommit b760d5f5166da8a5eb22b664111eff1bd49e474c[m
+Author: Logesh Kumar <140231546+LogeshKumar17011997@users.noreply.github.com>
+Date:   Sat Jul 22 16:29:27 2023 +0530
+
+    Delete Program.cs
+
+[33mcommit c9dbba5582f2e63a114beef68f910fee908b4954[m[33m ([m[1;31morigin/LogeshNewBranch[m[33m, [m[1;32mLogeshNewBranch[m[33m)[m
+Merge: 64ee200 b4e95c4
+Author: Logesh Kumar <140231546+LogeshKumar17011997@users.noreply.github.com>
+Date:   Sat Jul 22 16:22:28 2023 +0530
+
+    Merge pull request #1 from LogeshKumar17011997/LogeshNewBranch
+    
+    'added'
+
+[33mcommit b4e95c4b25deda84698662ff116e848d7a62cce2[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 16:18:31 2023 +0530
+
+    'added'
+
+[33mcommit 64ee20092f1a7a335319d4981e294d76b3fee94a[m
+Merge: 6acb5b1 3b8d9c4
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 16:11:51 2023 +0530
+
+    'saasd'
+
+[33mcommit 3b8d9c4404815d4f9aa154feb01e48b1d6ec9360[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 16:05:01 2023 +0530
+
+    'ddsad'
+
+[33mcommit 6acb5b18916d3dba373fcadf93732989bf6eea94[m
+Author: Logesh Kumar <140231546+LogeshKumar17011997@users.noreply.github.com>
+Date:   Sat Jul 22 15:55:49 2023 +0530
+
+    Update .gitignore.txt
+
+[33mcommit 5400b534edbb23c1cd4c57cb6b6424285dcd5a19[m
+Author: Logesh Kumar <140231546+LogeshKumar17011997@users.noreply.github.com>
+Date:   Sat Jul 22 15:53:36 2023 +0530
+
+    Update .gitignore.txt
+
+[33mcommit 7f5df37ce5501406458e208804df407f49a93fa3[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 15:51:11 2023 +0530
+
+    'ignorefileupdate'
+
+[33mcommit a48e9a4e90160e40207f844f7c73e2ff4834206e[m
+Author: Logesh Kumar <140231546+LogeshKumar17011997@users.noreply.github.com>
+Date:   Sat Jul 22 15:47:00 2023 +0530
+
+    Update .gitignore.txt
+
+[33mcommit 5df2b6daeb45d4b72cd9dc7c70aa42c6eabf6fca[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 15:33:10 2023 +0530
+
+    'ignorefile'
+
+[33mcommit ac2d9242f32a285ae1c1fc70913e31df4e9fb064[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 15:09:18 2023 +0530
+
+    git all changes
+
+[33mcommit 7630507844843ff8d1b1f9af2a4c5ba9425c09be[m
+Author: Logesh <logeshkumarac14uit028@gmail.com>
+Date:   Sat Jul 22 14:24:53 2023 +0530
+
+    'sss'
+
+[33mcommit 468ea6c6676705947adcad4c73ce78754e2e4a48[m
+Author: Logesh <kumarlogesh762@gmail.com>
+Date:   Sat Jul 22 13:50:21 2023 +0530
+
+    'test'
+
+[33mcommit 89cb2f2872b25cbfbe1205dd6afb25ae206b1069[m
+Author: Logesh Kumar <140231546+LogeshKumar17011997@users.noreply.github.com>
+Date:   Sat Jul 22 12:01:41 2023 +0530
+
+    Initial commit
