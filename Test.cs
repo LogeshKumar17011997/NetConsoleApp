@@ -9,5 +9,6 @@ namespace ConsoleAppUnderstandings
 	public  class Test
 	{
 		public string myName { get; set; }
+		public string myDescription { get; set; }
 	}
 }
