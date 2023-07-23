@@ -10,5 +10,6 @@ namespace ConsoleAppUnderstandings
 	{
 		public string myName { get; set; }
 		public string myDescription { get; set; }
+
 	}
 }
