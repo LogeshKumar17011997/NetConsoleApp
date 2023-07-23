@@ -14,6 +14,10 @@ namespace ConsoleAppUnderstandings
 
 		public string city { get; set; }
 		public string country { get; set; }
+
 		public string text{get;set;}
+
+		public string texts{get;set;}
+
 	}
 }
