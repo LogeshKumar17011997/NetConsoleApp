@@ -11,7 +11,8 @@ namespace ConsoleAppUnderstandings
 		public string myName { get; set; }
 		public string desc { get; set; }
 		public string place { get; set; }
-		public string city1 { get; set; }
-		
+
+		public string city { get; set; }
+		public string country { get; set; }
 	}
 }
